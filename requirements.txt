@@ -1,0 +1,19 @@
+# Only needed to run the notebooks on your own computer.
+# Google Colab installs what it needs inside each notebook.
+# After testing, replace these with pinned versions (pip freeze).
+numpy
+pandas
+matplotlib
+scikit-learn
+networkx
+sentence-transformers
+chromadb
+transformers
+accelerate
+torch
+anthropic
+openai
+google-genai
+arabic-reshaper
+python-bidi
+ipython
