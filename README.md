@@ -15,6 +15,7 @@ Every notebook runs in Google Colab, uses examples from history, books and archi
 | 6 | Open-weight models and prompting | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AhlamBashiti1/dh-llm-notebooks/blob/main/notebooks/06_open_weight_models.ipynb) | free T4 GPU | none |
 | 7 | RAG with an open-weight model | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AhlamBashiti1/dh-llm-notebooks/blob/main/notebooks/07_rag_open_weight_models.ipynb) | free T4 GPU | none |
 | 8 | Translation, summarisation, sentiment, NER, relations | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AhlamBashiti1/dh-llm-notebooks/blob/main/notebooks/08_task_specific_examples.ipynb) | free CPU | Claude API key |
+| 8 | Translation, summarisation, sentiment, NER, relations | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AhlamBashiti1/dh-llm-notebooks/blob/main/notebooks/08_FreeTier_Task_specific_examples.ipynb) | free CPU | Gemini API key |
 | 9 | Testing a model on your own task | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AhlamBashiti1/dh-llm-notebooks/blob/main/notebooks/09_benchmark_sentiment.ipynb) | free T4 GPU | none |
 
 ## How to use them
