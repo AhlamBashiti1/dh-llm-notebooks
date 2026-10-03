@@ -1,6 +1,6 @@
 # Large Language Models for Digital Humanities: Python Notebooks
 
-Practical notebooks for students of the Digital Humanities. **No programming or AI background is needed.**
+Practical notebooks for students of the Digital Humanities.
 Every notebook runs in Google Colab, uses examples from history, books and archives, and works in **English and Arabic**.
 
 ## The notebooks
