@@ -19,6 +19,9 @@ Every notebook runs in Google Colab, uses examples from history, books and archi
 | 8 | Translation, summarisation, sentiment, NER, relations | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AhlamBashiti1/dh-llm-notebooks/blob/main/notebooks/08_FreeTier_Task_specific_examples.ipynb) | free CPU | Gemini API key |
 | 9 | Testing a model on your own task | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AhlamBashiti1/dh-llm-notebooks/blob/main/notebooks/09_benchmark_sentiment.ipynb) | free T4 GPU | none |
 
+
+Testing status: [Testing checklist](https://github.com/AhlamBashiti1/dh-llm-notebooks/issues/1)
+
 ## How to use them
 
 1. Click **Open in Colab** next to a notebook (you need a free Google account).
