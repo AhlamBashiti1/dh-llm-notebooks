@@ -7,15 +7,15 @@ Every notebook runs in Google Colab, uses examples from history, books and archi
 
 | # | Topic | Open in Colab | Needs | Key |
 |---|---|---|---|---|
-| 1 | Embeddings and similarity | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR-USERNAME/dh-llm-notebooks/blob/main/notebooks/01_embeddings_and_similarity.ipynb) | free CPU | none |
-| 2 | What is a vector database | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR-USERNAME/dh-llm-notebooks/blob/main/notebooks/02_vector_database.ipynb) | free CPU | none |
-| 3 | Claude, OpenAI and Gemini APIs | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR-USERNAME/dh-llm-notebooks/blob/main/notebooks/03_llm_api_prompting.ipynb) | free CPU | one API key |
-| 4 | RAG with static demonstrations | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR-USERNAME/dh-llm-notebooks/blob/main/notebooks/04_rag_static_demonstrations.ipynb) | free CPU | one API key |
-| 5 | RAG with a vector database | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR-USERNAME/dh-llm-notebooks/blob/main/notebooks/05_rag_vector_db.ipynb) | free CPU | one API key |
-| 6 | Open-weight models and prompting | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR-USERNAME/dh-llm-notebooks/blob/main/notebooks/06_open_weight_models.ipynb) | free T4 GPU | none |
-| 7 | RAG with an open-weight model | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR-USERNAME/dh-llm-notebooks/blob/main/notebooks/07_rag_open_weight_models.ipynb) | free T4 GPU | none |
-| 8 | Translation, summarisation, sentiment, NER, relations | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR-USERNAME/dh-llm-notebooks/blob/main/notebooks/08_task_specific_examples.ipynb) | free CPU | Claude API key |
-| 9 | Testing a model on your own task | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR-USERNAME/dh-llm-notebooks/blob/main/notebooks/09_benchmark_sentiment.ipynb) | free T4 GPU | none |
+| 1 | Embeddings and similarity | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github//dh-llm-notebooks/blob/main/notebooks/01_embeddings_and_similarity.ipynb) | free CPU | none |
+| 2 | What is a vector database | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AhlamBashiti1/dh-llm-notebooks/blob/main/notebooks/02_vector_database.ipynb) | free CPU | none |
+| 3 | Claude, OpenAI and Gemini APIs | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AhlamBashiti1/dh-llm-notebooks/blob/main/notebooks/03_llm_api_prompting.ipynb) | free CPU | one API key |
+| 4 | RAG with static demonstrations | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AhlamBashiti1/dh-llm-notebooks/blob/main/notebooks/04_rag_static_demonstrations.ipynb) | free CPU | one API key |
+| 5 | RAG with a vector database | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AhlamBashiti1/dh-llm-notebooks/blob/main/notebooks/05_rag_vector_db.ipynb) | free CPU | one API key |
+| 6 | Open-weight models and prompting | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AhlamBashiti1/dh-llm-notebooks/blob/main/notebooks/06_open_weight_models.ipynb) | free T4 GPU | none |
+| 7 | RAG with an open-weight model | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AhlamBashiti1/dh-llm-notebooks/blob/main/notebooks/07_rag_open_weight_models.ipynb) | free T4 GPU | none |
+| 8 | Translation, summarisation, sentiment, NER, relations | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AhlamBashiti1/dh-llm-notebooks/blob/main/notebooks/08_task_specific_examples.ipynb) | free CPU | Claude API key |
+| 9 | Testing a model on your own task | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AhlamBashiti1/dh-llm-notebooks/blob/main/notebooks/09_benchmark_sentiment.ipynb) | free T4 GPU | none |
 
 ## How to use them
 
