@@ -7,7 +7,7 @@ Every notebook runs in Google Colab, uses examples from history, books and archi
 
 | # | Topic | Open in Colab | Needs | Key |
 |---|---|---|---|---|
-| 1 | Embeddings and similarity | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github//dh-llm-notebooks/blob/main/notebooks/01_embeddings_and_similarity.ipynb) | free CPU | none |
+| 1 | Embeddings and similarity | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AhlamBashiti1/dh-llm-notebooks/blob/main/notebooks/01_embeddings_and_similarity.ipynb) | free CPU | none |
 | 2 | What is a vector database | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AhlamBashiti1/dh-llm-notebooks/blob/main/notebooks/02_vector_database.ipynb) | free CPU | none |
 | 3 | Claude, OpenAI and Gemini APIs | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AhlamBashiti1/dh-llm-notebooks/blob/main/notebooks/03_llm_api_prompting.ipynb) | free CPU | one API key |
 | 4 | RAG with static demonstrations | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AhlamBashiti1/dh-llm-notebooks/blob/main/notebooks/04_rag_static_demonstrations.ipynb) | free CPU | one API key |
