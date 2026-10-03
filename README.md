@@ -20,7 +20,7 @@ Every notebook runs in Google Colab, uses examples from history, books and archi
 | 9 | Testing a model on your own task | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AhlamBashiti1/dh-llm-notebooks/blob/main/notebooks/09_benchmark_sentiment.ipynb) | free T4 GPU | none |
 
 
-Testing status (Notebook tested Status): [Testing checklist](https://github.com/AhlamBashiti1/dh-llm-notebooks/issues/1)
+## Testing status (Notebook tested Status): [Testing checklist](https://github.com/AhlamBashiti1/dh-llm-notebooks/issues/1)
 
 ## How to use them
 
