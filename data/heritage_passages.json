@@ -1,0 +1,100 @@
+[
+ {
+  "id": "p01",
+  "title": "House of Wisdom",
+  "topic": "learning",
+  "en": "The House of Wisdom in Baghdad was a major centre where scholars translated Greek, Persian and Indian texts into Arabic.",
+  "ar": "كان بيت الحكمة في بغداد مركزًا كبيرًا ترجم فيه العلماء النصوص اليونانية والفارسية والهندية إلى العربية."
+ },
+ {
+  "id": "p02",
+  "title": "Gutenberg",
+  "topic": "writing and books",
+  "en": "Around 1450, Johannes Gutenberg introduced movable-type printing in Europe, which made books cheaper and faster to produce.",
+  "ar": "حوالي عام 1450 أدخل يوهانس غوتنبرغ الطباعة بالحروف المتحركة في أوروبا، فأصبح إنتاج الكتب أرخص وأسرع."
+ },
+ {
+  "id": "p03",
+  "title": "Ibn Battuta",
+  "topic": "travel and trade",
+  "en": "In 1325 Ibn Battuta left Tangier for the pilgrimage to Mecca and went on to travel through Africa, Asia and Europe for nearly thirty years.",
+  "ar": "في عام 1325 غادر ابن بطوطة طنجة لأداء الحج، ثم سافر في أفريقيا وآسيا وأوروبا قرابة ثلاثين عامًا."
+ },
+ {
+  "id": "p04",
+  "title": "Rosetta Stone",
+  "topic": "language and literature",
+  "en": "The Rosetta Stone carries one decree in three scripts, which helped Jean-François Champollion decipher Egyptian hieroglyphs in 1822.",
+  "ar": "يحمل حجر رشيد مرسومًا واحدًا بثلاث كتابات، وقد ساعد جان فرانسوا شامبليون على فك رموز الهيروغليفية المصرية عام 1822."
+ },
+ {
+  "id": "p05",
+  "title": "Monks and scriptoria",
+  "topic": "writing and books",
+  "en": "In medieval Europe, monks copied manuscripts by hand in rooms called scriptoria.",
+  "ar": "في أوروبا في العصور الوسطى، كان الرهبان ينسخون المخطوطات بأيديهم في قاعات خاصة تُسمى «سكريبتوريا»."
+ },
+ {
+  "id": "p06",
+  "title": "Digital archives",
+  "topic": "archives and libraries",
+  "en": "Digital archives let researchers search millions of scanned newspaper pages from their own computers.",
+  "ar": "تتيح الأرشيفات الرقمية للباحثين البحث في ملايين الصفحات الصحفية الممسوحة ضوئيًا من حواسيبهم."
+ },
+ {
+  "id": "p07",
+  "title": "Silk Road",
+  "topic": "travel and trade",
+  "en": "The Silk Road was a network of trade routes that connected China with the Mediterranean world.",
+  "ar": "كان طريق الحرير شبكة من طرق التجارة ربطت الصين بعالم البحر المتوسط."
+ },
+ {
+  "id": "p08",
+  "title": "Ibn Khaldun",
+  "topic": "learning",
+  "en": "Ibn Khaldun was born in Tunis in 1332 and wrote the Muqaddimah, an introduction to the study of history, in 1377.",
+  "ar": "وُلد ابن خلدون في تونس عام 1332، وكتب «المقدمة»، وهي تمهيد لدراسة التاريخ، عام 1377."
+ },
+ {
+  "id": "p09",
+  "title": "Al-Azhar",
+  "topic": "learning",
+  "en": "Al-Azhar in Cairo was founded in 970 and became one of the most important centres of Islamic learning.",
+  "ar": "تأسس الأزهر في القاهرة عام 970، وأصبح من أهم مراكز العلم الإسلامي."
+ },
+ {
+  "id": "p10",
+  "title": "Al-Qarawiyyin",
+  "topic": "learning",
+  "en": "The University of al-Qarawiyyin in Fez was founded in 859 by Fatima al-Fihri.",
+  "ar": "أسست فاطمة الفهرية جامعة القرويين في فاس عام 859."
+ },
+ {
+  "id": "p11",
+  "title": "Library of Alexandria",
+  "topic": "archives and libraries",
+  "en": "The Library of Alexandria, founded in the third century BCE, was one of the largest libraries of the ancient world.",
+  "ar": "كانت مكتبة الإسكندرية، التي تأسست في القرن الثالث قبل الميلاد، من أكبر مكتبات العالم القديم."
+ },
+ {
+  "id": "p12",
+  "title": "Papermaking",
+  "topic": "writing and books",
+  "en": "From the eighth century, papermaking spread across the Islamic world, which made books cheaper and helped libraries grow.",
+  "ar": "منذ القرن الثامن انتشرت صناعة الورق في العالم الإسلامي، فأصبحت الكتب أرخص ونمت المكتبات."
+ },
+ {
+  "id": "p13",
+  "title": "Al-Mutanabbi",
+  "topic": "language and literature",
+  "en": "Al-Mutanabbi, a poet of the tenth century, is considered one of the greatest poets of the Arabic language.",
+  "ar": "يُعد المتنبي، شاعر القرن العاشر، من أعظم شعراء اللغة العربية."
+ },
+ {
+  "id": "p14",
+  "title": "Bulaq Press",
+  "topic": "writing and books",
+  "en": "Around 1820 the Bulaq Press in Cairo began printing books in Arabic on a large scale.",
+  "ar": "حوالي عام 1820 بدأت مطبعة بولاق في القاهرة طباعة الكتب العربية على نطاق واسع."
+ }
+]

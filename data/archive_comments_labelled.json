@@ -1,0 +1,122 @@
+[
+ {
+  "language": "en",
+  "text": "The digital archive saved me weeks of work.",
+  "gold": "POSITIVE"
+ },
+ {
+  "language": "en",
+  "text": "Excellent collection, and the search is fast and easy.",
+  "gold": "POSITIVE"
+ },
+ {
+  "language": "en",
+  "text": "I finally found the letter I was looking for. Wonderful!",
+  "gold": "POSITIVE"
+ },
+ {
+  "language": "en",
+  "text": "The scans are clear and the catalogue is very well organised.",
+  "gold": "POSITIVE"
+ },
+ {
+  "language": "en",
+  "text": "The search is slow and the results are inaccurate.",
+  "gold": "NEGATIVE"
+ },
+ {
+  "language": "en",
+  "text": "Half of the pages will not load, and nobody answers emails.",
+  "gold": "NEGATIVE"
+ },
+ {
+  "language": "en",
+  "text": "The scans are so blurry that the text cannot be read.",
+  "gold": "NEGATIVE"
+ },
+ {
+  "language": "en",
+  "text": "Very disappointing, most of the material is not available online.",
+  "gold": "NEGATIVE"
+ },
+ {
+  "language": "en",
+  "text": "New manuscripts were uploaded on Sunday.",
+  "gold": "NEUTRAL"
+ },
+ {
+  "language": "en",
+  "text": "The reading room is open from nine to five.",
+  "gold": "NEUTRAL"
+ },
+ {
+  "language": "en",
+  "text": "The website has one section for newspapers and one for maps.",
+  "gold": "NEUTRAL"
+ },
+ {
+  "language": "en",
+  "text": "The centre will hold a workshop on cataloguing next week.",
+  "gold": "NEUTRAL"
+ },
+ {
+  "language": "ar",
+  "text": "الأرشيف الرقمي ساعدني كثيرا في بحثي",
+  "gold": "POSITIVE"
+ },
+ {
+  "language": "ar",
+  "text": "موقع رائع وسهل الاستخدام، شكرا لكم",
+  "gold": "POSITIVE"
+ },
+ {
+  "language": "ar",
+  "text": "وجدت المخطوطة التي كنت أبحث عنها منذ سنوات",
+  "gold": "POSITIVE"
+ },
+ {
+  "language": "ar",
+  "text": "الصور واضحة جدا والفهرسة ممتازة",
+  "gold": "POSITIVE"
+ },
+ {
+  "language": "ar",
+  "text": "البحث في الموقع بطيء والنتائج غير دقيقة",
+  "gold": "NEGATIVE"
+ },
+ {
+  "language": "ar",
+  "text": "الصفحات لا تفتح وخدمة الدعم لا ترد",
+  "gold": "NEGATIVE"
+ },
+ {
+  "language": "ar",
+  "text": "جودة المسح سيئة ولا يمكن قراءة النص",
+  "gold": "NEGATIVE"
+ },
+ {
+  "language": "ar",
+  "text": "خيبة أمل كبيرة، معظم المواد غير متاحة",
+  "gold": "NEGATIVE"
+ },
+ {
+  "language": "ar",
+  "text": "تم رفع المخطوطات الجديدة يوم الأحد",
+  "gold": "NEUTRAL"
+ },
+ {
+  "language": "ar",
+  "text": "يفتح الأرشيف أبوابه من التاسعة إلى الخامسة",
+  "gold": "NEUTRAL"
+ },
+ {
+  "language": "ar",
+  "text": "الموقع يحتوي على قسم للصحف وقسم للخرائط",
+  "gold": "NEUTRAL"
+ },
+ {
+  "language": "ar",
+  "text": "سيعقد المركز ورشة عن الفهرسة الأسبوع القادم",
+  "gold": "NEUTRAL"
+ }
+]
